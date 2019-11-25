@@ -31,7 +31,10 @@ header::after {
 }
 
 nav{
+  display: flex;
   float: right;
+  align-items: center;
+  background-color: #5d4954;
 }
 
 nav ul {
